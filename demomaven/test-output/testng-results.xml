@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24923" started-at="2021-12-08T18:36:50Z" finished-at="2021-12-08T18:37:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24923" started-at="2021-12-08T18:36:50Z" finished-at="2021-12-08T18:37:15Z">
+      <class name="demomaven.calculator">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:demomaven.calculator@3bfdc050]" name="launchApp" is-config="true" duration-ms="15367" started-at="2021-12-08T18:36:35Z" finished-at="2021-12-08T18:36:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="multiplication()[pri:0, instance:demomaven.calculator@3bfdc050]" name="multiplication" duration-ms="6337" started-at="2021-12-08T18:36:50Z" finished-at="2021-12-08T18:36:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+        <test-method status="PASS" signature="division()[pri:1, instance:demomaven.calculator@3bfdc050]" name="division" duration-ms="5953" started-at="2021-12-08T18:36:57Z" finished-at="2021-12-08T18:37:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- division -->
+        <test-method status="PASS" signature="Addition()[pri:2, instance:demomaven.calculator@3bfdc050]" name="Addition" duration-ms="6270" started-at="2021-12-08T18:37:03Z" finished-at="2021-12-08T18:37:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addition -->
+        <test-method status="PASS" signature="Subtraction()[pri:3, instance:demomaven.calculator@3bfdc050]" name="Subtraction" duration-ms="6292" started-at="2021-12-08T18:37:09Z" finished-at="2021-12-08T18:37:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subtraction -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:demomaven.calculator@3bfdc050]" name="closeApp" is-config="true" duration-ms="980" started-at="2021-12-08T18:37:15Z" finished-at="2021-12-08T18:37:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- demomaven.calculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
